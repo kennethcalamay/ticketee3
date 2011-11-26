@@ -17,3 +17,6 @@
 # Ignore vim undo files
 *un~
 /**/*un~
+
+# Ignore mac files
+.DS_Store
